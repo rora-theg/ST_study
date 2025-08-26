@@ -3,7 +3,7 @@
 
 本文是对论文 **“High-resolution mapping of single cells in their spatial context”** (发表于 _Nature Communications_) 及其核心工具 **CMAP** 的学习总结。
 
-这篇论文发表于2024年，其研究工作主要由**广州实验室（Guangzhou Laboratory）的索英豪（Ying-Hao Suo）**研究员团队牵头完成。
+这篇论文发表于2024年，其研究工作主要由广州实验室（Guangzhou Laboratory）的索英豪（Ying-Hao Suo）研究员团队牵头完成。
 
 通讯作者 (Corresponding Author) 👨‍🏫
 通讯作者是整个项目的领导者，负责提出核心思想、指导研究方向并最终把关。
